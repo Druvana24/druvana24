@@ -1,16 +1,15 @@
-## Hi there 👋
+druvana24
 
-<!--
-**Druvana24/druvana24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm B. Druvana 👋
 
-Here are some ideas to get you started:
+Software Engineer & Data Scientist focused on building scalable applications, machine learning solutions, and cloud analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Latest: USA Rainfall Prediction — Big Data ML pipeline
+- 🛠️ Stack: Python, Java, SQL, Apache Spark, Airflow, Azure, AWS, Power BI
+- 🎯 Interests: ML/AI, ETL, Cloud Data Engineering, Technical Analysis
+- ✍️ Writing: SDLC, project optimization, analytics visualization
+
+Featured Projects
+
+- usa-rainfall-prediction — ML pipeline for rainfall forecasting across the USA, Big Data insights
+- stock-price-technical-analysis — ML/AI models for stock analytics and classification
