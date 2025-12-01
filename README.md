@@ -105,7 +105,7 @@ Jawaharlal Nehru Technological University (Jun 2017 - Aug 2021)
 ## 📬 Let's Connect
 
 💼 **LinkedIn:** [B. Druvana](https://linkedin.com/in/druvana)  
-📧 **Email:** druvanamyjobemails.com  
+📧 **Email:** druvanabattula24@.com  
 📱 **Phone:** +1 (919) 780-1716  
 📍 **Location:** NJ, USA
 
