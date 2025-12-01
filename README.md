@@ -1,6 +1,6 @@
 #  Hi, I'm B. Druvana 👋
 
-**Full-Stack Software Developer** | **Fintech Specialist** | **Microservices Architect**
+**Full-Stack Software Developer** 
 
 I'm a Master's graduate in Computer Science focused on building production-grade fintech solutions, scalable microservices, and enterprise applications. Currently at Mastercard, developing real-time payment validation systems processing 18M+ transactions monthly.
 
